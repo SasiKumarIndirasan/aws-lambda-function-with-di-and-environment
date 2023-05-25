@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcFZlFUhcfL1mucvg4J+ZdZRI3Ysh+QbjAbb46TaE4VtJF3QcmVvUnGezYT5N9j56hgVwFuIS8O8lN8B6V/ENQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\AWSLambdaFunction\\src\\AWSLambdaFunction\\AWSLambdaFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\amazon.lambda.runtimesupport\\1.8.7\\amazon.lambda.runtimesupport.1.8.7.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.5\\microsoft.netcore.app.runtime.linux-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.5\\microsoft.netcore.app.crossgen2.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.5\\microsoft.netcore.app.host.linux-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
