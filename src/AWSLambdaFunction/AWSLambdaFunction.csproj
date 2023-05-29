@@ -27,9 +27,16 @@
     <PackageReference Include="Microsoft.ICU.ICU4C.Runtime" Version="68.2.0.9" />
   </ItemGroup>
   <ItemGroup>
+	<Content Include="appsettings.json">
+		<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</Content>
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Amazon.Lambda.RuntimeSupport" Version="1.8.7" />
     <PackageReference Include="Amazon.Lambda.Core" Version="2.1.0" />
     <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.3.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+	<PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
   </ItemGroup>
 </Project>
